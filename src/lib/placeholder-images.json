@@ -1,0 +1,154 @@
+{
+  "placeholderImages": [
+    {
+      "id": "about-image",
+      "description": "A modern, minimalist office space showing a team collaborating around a holographic interface displaying security data.",
+      "imageUrl": "https://images.unsplash.com/photo-1672372403659-aa04f11c5d67?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "futuristic office"
+    },
+    {
+      "id": "solution-card-1",
+      "description": "A sleek, weatherproof security camera mounted on the corner of a futuristic glass and steel building at night.",
+      "imageUrl": "https://images.unsplash.com/photo-1549109926-58f039549485?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzZWN1cml0eSUyMGNhbWVyYXxlbnwwfHx8fDE3Njc3NjkzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "security camera"
+    },
+    {
+      "id": "solution-card-2",
+      "description": "A robust, heavy-duty camera overlooking a sprawling industrial complex or factory at dusk.",
+      "imageUrl": "https://images.unsplash.com/photo-1603348417826-e9bc1e277c67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmYWN0b3J5JTIwZHVza3xlbnwwfHx8fDE3Njc4MjMyNDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "factory dusk"
+    },
+    {
+      "id": "solution-card-3",
+      "description": "A discreet, stylish security camera integrated into the architecture of a modern smart home.",
+      "imageUrl": "https://images.unsplash.com/photo-1545259741-2ea3ebf61fa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzbWFydCUyMGhvbWV8ZW58MHx8fHwxNzY3NzU4NzEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart home"
+    },
+    {
+      "id": "contact-bg",
+      "description": "A futuristic security control room with multiple screens showing data and camera feeds.",
+      "imageUrl": "https://images.pexels.com/photos/724921/pexels-photo-724921.jpeg",
+      "imageHint": "control room"
+    },
+    {
+      "id": "product-camera",
+      "description": "A modern security camera against a clean background.",
+      "imageUrl": "https://images.unsplash.com/photo-1617897711385-df9c86b7dfe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2VjdXJpdHklMjBjYW1lcmF8ZW58MHx8fHwxNzY3NzY5MzU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "security camera"
+    },
+    {
+      "id": "product-storage",
+      "description": "A network video recorder (NVR) device.",
+      "imageUrl": "https://images.unsplash.com/photo-1563884705074-7c8b15f16295?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxuZXR3b3JrJTIwcmVjb3JkZXJ8ZW58MHx8fHwxNzY3ODI2OTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "network recorder"
+    },
+    {
+      "id": "product-biometric",
+      "description": "A fingerprint scanner.",
+      "imageUrl": "https://images.unsplash.com/photo-1698281958513-2e09090da395?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmaW5nZXJwcmludCUyMHNjYW5uZXJ8ZW58MHx8fHwxNzY3ODI2OTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fingerprint scanner"
+    },
+    {
+      "id": "product-accessories",
+      "description": "Various camera mounting brackets and cables.",
+      "imageUrl": "https://images.unsplash.com/photo-1660064947114-cbbb99c9ae92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzZWN1cml0eSUyMGFjY2Vzc29yaWVzfGVufDB8fHx8MTc2NzgyNjkzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "security accessories"
+    },
+    {
+      "id": "product-door-phone",
+      "description": "A video door phone with a camera.",
+      "imageUrl": "https://images.unsplash.com/photo-1642726197626-f03ef77f13cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dmlkZW8lMjBpbnRlcmNvbXxlbnwwfHx8fDE3Njc4MjY5Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "video intercom"
+    },
+    {
+      "id": "project-corporate-hq",
+      "description": "The modern glass facade of a corporate headquarters building at dusk.",
+      "imageUrl": "https://images.unsplash.com/photo-1588049615591-53748259b3f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzk5ODJ8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjBidWlsZGluZ3xlbnwwfHx8fDE3MTI5ODc1NzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "corporate building"
+    },
+    {
+      "id": "project-city-surveillance",
+      "description": "A busy city intersection at night with light trails from traffic.",
+      "imageUrl": "https://images.unsplash.com/photo-1544465884-3f1b92474b33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzk5ODJ8MHwxfHNlYXJjaHwyfHxjaXR5JTIwbmlnaHR8ZW58MHx8fHwxNzEyOTg3NjE0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "city night"
+    },
+    {
+      "id": "project-industrial-plant",
+      "description": "An industrial plant with smokestacks against a sunset.",
+      "imageUrl": "https://images.unsplash.com/photo-1550493542-c1789b70b435?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzk5ODJ8MHwxfHNlYXJjaHw1fHxpbmR1c3RyaWFsJTIwcGxhbnR8ZW58MHx8fHwxNzEyOTg3NjQ0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "industrial plant"
+    },
+    {
+      "id": "project-smart-home",
+      "description": "A modern luxury home with large windows and a swimming pool.",
+      "imageUrl": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzk5ODJ8MHwxfHNlYXJjaHwyfHxtb2Rlcm4lMjBob3VzZXxlbnwwfHx8fDE3MTI5ODc2Nzd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "modern house"
+    },
+    {
+      "id": "avatar-1",
+      "description": "Portrait of a smiling Indian man in business attire.",
+      "imageUrl": "https://images.unsplash.com/photo-1595152772253-1514a5c34535?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "indian male portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Portrait of an Indian woman with glasses in an office.",
+      "imageUrl": "https://images.unsplash.com/photo-1604233069273-5e4b9d3bf62d?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "indian female portrait"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Portrait of an Indian man in a hard hat at a construction site.",
+      "imageUrl": "https://images.unsplash.com/photo-1542065426-8099e0420666?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "indian site manager"
+    },
+    {
+      "id": "avatar-4",
+      "description": "Portrait of a smiling Indian woman in a modern home.",
+      "imageUrl": "https://images.unsplash.com/photo-1619420674148-c313a3a60f4c?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "indian homeowner"
+    },
+    {
+      "id": "avatar-5",
+      "description": "Portrait of an Indian man in a server room.",
+      "imageUrl": "https://images.unsplash.com/photo-1529421326447-3a1c61830541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxpdCUyMHByb2Zlc3Npb25hbHxlbnwwfHx8fDE3Njg4NTAwNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian it professional"
+    },
+    {
+      "id": "avatar-6",
+      "description": "Portrait of an Indian woman architect looking at blueprints.",
+      "imageUrl": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmZW1hbGUlMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njg1ODU5MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian female architect"
+    },
+    {
+      "id": "avatar-7",
+      "description": "Portrait of a male Indian retail store owner.",
+      "imageUrl": "https://images.unsplash.com/photo-1556742212-5b321f3c26a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZXRhaWwlMjBvd25lcnxlbnwwfHx8fDE3Njg4NTAwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian retail owner"
+    },
+    {
+      "id": "avatar-8",
+      "description": "Portrait of an Indian city planner smiling.",
+      "imageUrl": "https://images.unsplash.com/photo-1599388136360-936b46377e11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjaXR5JTIwcGxhbm5lcnxlbnwwfHx8fDE3Njg4NTAwOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian city planner"
+    },
+    {
+      "id": "avatar-9",
+      "description": "Portrait of an Indian woman in a hard hat.",
+      "imageUrl": "https://images.unsplash.com/photo-1525979883852-a82a03de39e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmZW1hbGUlMjBlbmdpbmVlcnxlbnwwfHx8fDE3Njg4NTAxMTV8MA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "indian female engineer"
+    },
+    {
+      "id": "avatar-10",
+      "description": "Portrait of a smiling Indian man in a suit.",
+      "imageUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYWxlJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzY4NjM0NjM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian male portrait"
+    },
+    {
+      "id": "avatar-11",
+      "description": "Portrait of a founder and CEO.",
+      "imageUrl": "https://images.unsplash.com/photo-1615813967513-3c8333093837?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "indian male founder"
+    }
+  ]
+}

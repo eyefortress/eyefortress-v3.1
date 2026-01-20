@@ -4,7 +4,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'EyeFortress Parallax',
+  title: 'EyeFortress Home Security',
   description: 'Advanced CCTV Solutions with Parallax Showcase',
 };
 
